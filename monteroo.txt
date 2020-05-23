@@ -4,3 +4,10 @@ Primer Semestre:
     Habilidades comunicativas--> 4.2
     Matemáticas I --> 3.9
     Fundamentos de tecnología I	--> 4.7
+
+Segundo Semestre:
+    Matemáticas II --> 4.2
+    Circuitos I --> 5.0
+    Fundamentos de Tecnología --> 4.2
+    Física I --> 4.7
+    Educación, Economía y Política --> 3.7
