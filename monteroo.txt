@@ -19,3 +19,9 @@ Tercer Semestre:
     Pedagogía y Conocimiento --> 4.2
     Diseño Electrónico I --> 2.9
 
+Cuarto Semestre:
+    Matemáticas IV --> 3.9
+    Circuitos III --> 4.4
+    Diseño Digital I --> 4.6
+    Pedagogía y Psicología --> 4.1
+    Diseño Electrónico II --> 3.7
