@@ -17,7 +17,7 @@ Tercer Semestre:
     Circuitos II --> 4.0
     Física II --> 4.7
     Pedagogía y Conocimiento --> 4.2
-    Diseño Electrónico I --> 2.9
+    Diseño Electrónico I --> 3.4
 
 Cuarto Semestre:
     Matemáticas IV --> 3.9
