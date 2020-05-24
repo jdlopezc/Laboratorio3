@@ -4,3 +4,10 @@ Primer Semestre:
     Habilidades comunicativas	--> 4.0
     Matemáticas I 		--> 4.0
     Fundamentos de tecnología I	--> 5.0
+Segundo Semestre
+    circuitos i	                    --> 4.53
+    fundamentos de tecnologia ii    --> 4.53
+    matematicas ii		    --> 3.4
+    fisica i	                    --> 4.53
+    educacion economia y politica   --> 4.54
+    inteligencia artificial	    --> 4.52
