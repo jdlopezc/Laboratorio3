@@ -22,4 +22,11 @@ Cuarto Semestre
 	dise?o digital i	        --> 4.6	
 	matematicas iv	                --> 3.6
 	teorias y modelos pedagogicos	--> 4
-	robotica escolar	        --> 4.7		
+	robotica escolar	        --> 4.7
+Quinto Semestre
+    tecnicas basicas natacion	--> 4.1	
+    diseño digital ii	     	--> 4.4	
+    pedagogia y psicologia	--> 4.7	
+    informatica i	5	--> 5
+    circuitos iv	        --> 3.6	
+    dise?o electronico ii	--> 3.9			
