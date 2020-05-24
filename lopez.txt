@@ -16,7 +16,7 @@ Tercer Semestre
     pedagogia y conocimiento	    --> 4.2
     matematica iii                  -->	3.5	
     fisica ii                       -->	4	
-    diseño electronico i	    --> 2.5
+    diseño electronico i	    --> 3.0
 Cuarto Semestre
 	circuitos iii                   --> 3
 	dise?o digital i	        --> 4.6	
