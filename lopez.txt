@@ -11,3 +11,9 @@ Segundo Semestre
     fisica i	                    --> 4.53
     educacion economia y politica   --> 4.54
     inteligencia artificial	    --> 4.52
+Tercer Semestre
+    circuitos ii                    -->	3.7	
+    pedagogia y conocimiento	    --> 4.2
+    matematica iii                  -->	3.5	
+    fisica ii                       -->	4	
+    diseño electronico i	    --> 2.5	
